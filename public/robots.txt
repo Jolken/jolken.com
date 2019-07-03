@@ -1,0 +1,10 @@
+# Rule 1
+User-agent: Googlebot
+Disallow: /img/
+Disallow: /js/
+Disallow: /css/
+
+
+# Rule 2
+User-agent: *
+Allow: /
